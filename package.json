@@ -9,13 +9,21 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@emotion/native": "^11.10.0",
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@react-native-async-storage/async-storage": "~1.17.3",
     "expo": "~47.0.9",
+    "expo-location": "~15.0.1",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "react-native-bouncy-checkbox": "^3.0.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
   "private": true
 }
+
+
